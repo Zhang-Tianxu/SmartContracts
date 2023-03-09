@@ -9,6 +9,8 @@ Split up NFT into *N* group(s), unlock `Mint` function in different times for di
 
 Lottery NFT which enable user open in any time. 
 
+PS: We cannot generate truly random numbers on block chain.
+
 ### Second Creation NFT
 
 NFTs which origin from other NFT, and user can get it's origin NFT
