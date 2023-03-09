@@ -8,3 +8,7 @@ Split up NFT into *N* group(s), unlock `Mint` function in different times for di
 ### Lottery NFT in 
 
 Lottery NFT which enable user open in any time. 
+
+### Second Creation NFT
+
+NFTs which origin from other NFT, and user can get it's origin NFT
